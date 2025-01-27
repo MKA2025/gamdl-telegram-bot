@@ -1,0 +1,5 @@
+python-telegram-bot>=20.0
+aiohttp
+async-timeout
+zipfile36
+schedule
