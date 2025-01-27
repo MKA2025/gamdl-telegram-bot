@@ -1,5 +1,12 @@
 python-telegram-bot>=20.0
-aiohttp
-async-timeout
-zipfile36
-schedule
+aiohttp>=3.8.0
+async-timeout>=4.0.0
+m3u8>=3.3.0
+mutagen>=1.45.0
+pillow>=9.0.0
+pycryptodome>=3.15.0
+requests>=2.28.0
+yt-dlp>=2023.3.4
+zipfile36>=0.1.3
+schedule>=1.1.0
+python-dotenv>=0.19.0
